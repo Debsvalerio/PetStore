@@ -1,0 +1,18 @@
+{
+  "id": 21032019,
+  "category": {
+    "id": 1,
+    "name": "ASDFG753159"
+  },
+  "name": "Hulk",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20210516,
+      "name": "sta"
+    }
+  ],
+  "status": "sold"
+}
